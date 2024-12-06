@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="TopModule_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="TopModule_tb" />
+            <top_module name="glbl" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="227.043 ns"></ZoomEndTime>
+      <Cursor1Time time="120.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="276"></NameColumnWidth>
+      <ValueColumnWidth column_width="116"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="53" />
+   <wvobject fp_name="/TopModule_tb/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/rom_addr1" type="array">
+      <obj_property name="ElementShortName">rom_addr1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">rom_addr1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/rom_addr2" type="array">
+      <obj_property name="ElementShortName">rom_addr2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">rom_addr2[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/result" type="array">
+      <obj_property name="ElementShortName">result[7:0]</obj_property>
+      <obj_property name="ObjectShortName">result[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/reset" type="logic">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/adr1" type="array">
+      <obj_property name="ElementShortName">adr1[2:0]</obj_property>
+      <obj_property name="ObjectShortName">adr1[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/adr2" type="array">
+      <obj_property name="ElementShortName">adr2[2:0]</obj_property>
+      <obj_property name="ObjectShortName">adr2[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/w_rf" type="logic">
+      <obj_property name="ElementShortName">w_rf</obj_property>
+      <obj_property name="ObjectShortName">w_rf</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/adr" type="array">
+      <obj_property name="ElementShortName">adr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">adr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/DA" type="logic">
+      <obj_property name="ElementShortName">DA</obj_property>
+      <obj_property name="ObjectShortName">DA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/SA" type="logic">
+      <obj_property name="ElementShortName">SA</obj_property>
+      <obj_property name="ObjectShortName">SA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/SB" type="logic">
+      <obj_property name="ElementShortName">SB</obj_property>
+      <obj_property name="ObjectShortName">SB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/st_out" type="array">
+      <obj_property name="ElementShortName">st_out[2:0]</obj_property>
+      <obj_property name="ObjectShortName">st_out[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/w_ram" type="array">
+      <obj_property name="ElementShortName">w_ram[2:0]</obj_property>
+      <obj_property name="ObjectShortName">w_ram[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/PS" type="array">
+      <obj_property name="ElementShortName">PS[2:0]</obj_property>
+      <obj_property name="ObjectShortName">PS[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/NS" type="array">
+      <obj_property name="ElementShortName">NS[2:0]</obj_property>
+      <obj_property name="ObjectShortName">NS[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/S0_idle" type="array">
+      <obj_property name="ElementShortName">S0_idle[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S0_idle[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/S1_send_adr1" type="array">
+      <obj_property name="ElementShortName">S1_send_adr1[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S1_send_adr1[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/S2_send_adr2" type="array">
+      <obj_property name="ElementShortName">S2_send_adr2[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S2_send_adr2[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/S3_multiply" type="array">
+      <obj_property name="ElementShortName">S3_multiply[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S3_multiply[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/S4_write_ram" type="array">
+      <obj_property name="ElementShortName">S4_write_ram[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S4_write_ram[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut2/S5_read_ram" type="array">
+      <obj_property name="ElementShortName">S5_read_ram[31:0]</obj_property>
+      <obj_property name="ObjectShortName">S5_read_ram[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/rom_inst/addr" type="array">
+      <obj_property name="ElementShortName">addr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">addr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/rom_inst/data_out" type="array">
+      <obj_property name="ElementShortName">data_out[3:0]</obj_property>
+      <obj_property name="ObjectShortName">data_out[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/rom_inst/memory" type="array">
+      <obj_property name="ElementShortName">memory[7:0][3:0]</obj_property>
+      <obj_property name="ObjectShortName">memory[7:0][3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/A" type="array">
+      <obj_property name="ElementShortName">A[3:0]</obj_property>
+      <obj_property name="ObjectShortName">A[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/B" type="array">
+      <obj_property name="ElementShortName">B[3:0]</obj_property>
+      <obj_property name="ObjectShortName">B[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/SA" type="logic">
+      <obj_property name="ElementShortName">SA</obj_property>
+      <obj_property name="ObjectShortName">SA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/SB" type="logic">
+      <obj_property name="ElementShortName">SB</obj_property>
+      <obj_property name="ObjectShortName">SB</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/D" type="array">
+      <obj_property name="ElementShortName">D[3:0]</obj_property>
+      <obj_property name="ObjectShortName">D[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/DA" type="logic">
+      <obj_property name="ElementShortName">DA</obj_property>
+      <obj_property name="ObjectShortName">DA</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/W" type="logic">
+      <obj_property name="ElementShortName">W</obj_property>
+      <obj_property name="ObjectShortName">W</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/rst" type="logic">
+      <obj_property name="ElementShortName">rst</obj_property>
+      <obj_property name="ObjectShortName">rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/clk" type="logic">
+      <obj_property name="ElementShortName">clk</obj_property>
+      <obj_property name="ObjectShortName">clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/load_enable" type="array">
+      <obj_property name="ElementShortName">load_enable[1:0]</obj_property>
+      <obj_property name="ObjectShortName">load_enable[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/R00" type="array">
+      <obj_property name="ElementShortName">R00[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R00[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut3/R01" type="array">
+      <obj_property name="ElementShortName">R01[3:0]</obj_property>
+      <obj_property name="ObjectShortName">R01[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/mul_inst/operand1" type="array">
+      <obj_property name="ElementShortName">operand1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">operand1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/mul_inst/operand2" type="array">
+      <obj_property name="ElementShortName">operand2[3:0]</obj_property>
+      <obj_property name="ObjectShortName">operand2[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/mul_inst/product" type="array">
+      <obj_property name="ElementShortName">product[7:0]</obj_property>
+      <obj_property name="ObjectShortName">product[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/i_clk" type="logic">
+      <obj_property name="ElementShortName">i_clk</obj_property>
+      <obj_property name="ObjectShortName">i_clk</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/i_rst" type="logic">
+      <obj_property name="ElementShortName">i_rst</obj_property>
+      <obj_property name="ObjectShortName">i_rst</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/i_write_en" type="logic">
+      <obj_property name="ElementShortName">i_write_en</obj_property>
+      <obj_property name="ObjectShortName">i_write_en</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/i_addr" type="array">
+      <obj_property name="ElementShortName">i_addr[2:0]</obj_property>
+      <obj_property name="ObjectShortName">i_addr[2:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/i_write_data" type="array">
+      <obj_property name="ElementShortName">i_write_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">i_write_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/o_read_data" type="array">
+      <obj_property name="ElementShortName">o_read_data[7:0]</obj_property>
+      <obj_property name="ObjectShortName">o_read_data[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/mem" type="array">
+      <obj_property name="ElementShortName">mem[0:7][7:0]</obj_property>
+      <obj_property name="ObjectShortName">mem[0:7][7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/i" type="array">
+      <obj_property name="ElementShortName">i[31:0]</obj_property>
+      <obj_property name="ObjectShortName">i[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/DATA_W" type="array">
+      <obj_property name="ElementShortName">DATA_W[31:0]</obj_property>
+      <obj_property name="ObjectShortName">DATA_W[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/SIZE" type="array">
+      <obj_property name="ElementShortName">SIZE[31:0]</obj_property>
+      <obj_property name="ObjectShortName">SIZE[31:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/TopModule_tb/uut/uut1/ADDR_W" type="array">
+      <obj_property name="ElementShortName">ADDR_W[31:0]</obj_property>
+      <obj_property name="ObjectShortName">ADDR_W[31:0]</obj_property>
+   </wvobject>
+</wave_config>
